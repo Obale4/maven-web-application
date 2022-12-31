@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.231.229.182:8181/repository/tesla-snapshot/</url>
+	      <url>http://34.231.229.182:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
